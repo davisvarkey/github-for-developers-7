@@ -5,3 +5,5 @@ We should all create great bios in this project. Make sure your bio includes:
      - [ ] Where you are from
      - [ ] A favorite food
      - [ ] A hobby
+
+favorite::color = Green
